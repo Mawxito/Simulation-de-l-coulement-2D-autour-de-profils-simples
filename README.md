@@ -1,0 +1,2 @@
+# Simulation-de-l-coulement-2D-autour-de-profils-simples
+Dans le cadre d’un projet de mathématiques et d’informatique, mon groupe et moi avons mené une étude rigoureuse et détaillée des équations de Navier-Stokes en 2D appliquées à plusieurs profils aérodynamiques (cylindre, aile NACA 007) dans l’air. Nous avons ensuite analysé les résultats dans une perspective d’optimisation et de réalisation physique.
